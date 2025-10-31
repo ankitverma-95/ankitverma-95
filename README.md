@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm currently working in samrish technologies pvt. ltd as an intern. I am looking for full time job as a software developer. I have completed my Bachelor degree in computer science and engineering. My skills are java, javascript, node, angular, mongo, springboot, firebase, and flutter.
+I’m a Software Developer with experience in building web applications across both frontend and backend technologies. Earlier, I started my journey as an intern on AngularJS projects, which gave me a strong foundation in web development and problem-solving.
+
+Tech Stack
+Frontend: Nextjs, Reactjs, Angular.js, HTML, CSS and JavaScript
+Backend: Java, Spring Boot, Node.js
+Database: MYSql/Sql, Firebase, MongoDB
+Marketing: SEO(Search Engine Optimization), Google tag manager (GTM), Google Analytics
+Mobile : Flutter, Dart, (MVVM Architecture)
+AI Tools: ChatGPT, Cluade, and Gemini.
+
 
 
 ## 🌐 Socials:
