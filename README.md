@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm software developer. I can work in various programming languages. The effective solution of every problem is break the problem into step by step. Earlier I learned Basic Web development (HTMl, CSS and JavaScript). than I learned Java (spring boot) React js, I started to work as an intern where I learn Angular.Js framework for build the web apps. I managed and developed website and backend project majorly work on frontend end sometimes in backend. also I maintained or development SEO things (like implement schema's, url redirection, meta tags, etc). Analysics logs from kibana, kubedash, and work on Microsoft Devops for releasing the feature or task management. I work with Marketing team and tech team. With the technical enhancement for SEO. Company get highest significant amount of revenue in the quarter(June to September).
+Full Stack Developer with 2+ years of experience building scalable web applications across frontend and backend domains. I specialize in Java Spring Boot microservices, REST API design, and modern frontend frameworks like React and Angular.
 ---
 
 ## 💻 Tech Stack:
